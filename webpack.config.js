@@ -16,7 +16,7 @@ const config = {
     extensions: ['.ts', '.tsx', '.js', '.jsx'],
   },
   output: {
-    publicPath: '/academix/',
+    publicPath: '/',
   },
 
   module: {
